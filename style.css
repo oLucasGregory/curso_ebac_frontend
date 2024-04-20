@@ -89,3 +89,15 @@ section h2 {
 
 
 }
+#entreterimento {
+    background-color: rgba(250, 10, 10, 0.274);
+}
+#entreterimento .article article a{
+    background-color: rgb(230, 82, 82);
+}
+#tec {
+    background-color: rgba(218, 119, 248, 0.308);
+}
+#tec .article article a{
+    background-color:rgba(203, 50, 250, 0.308) ;
+}
